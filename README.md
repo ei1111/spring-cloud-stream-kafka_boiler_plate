@@ -1,4 +1,4 @@
-# spring-cloud-stream-boilerplate
+# spring-cloud-stream-kafka-boilerplate
 
 Spring Cloud Stream을 활용하여 **Kafka 기반 메시지 스트리밍 애플리케이션을 빠르게 시작하기 위한 Boilerplate 프로젝트**입니다.  
 Swagger(UI)를 통해 메시지 발행 API를 직접 테스트할 수 있도록 구성되어 있습니다.
